@@ -4,8 +4,6 @@
 a **passionate Software Engineer** who loves building **scalable systems**,  
 modern **web & mobile applications**, and experimenting with **diverse tech stacks**.
 
-I enjoy solving real-world problems using clean architecture, performance-focused design, and modern development tools.
-
 Let’s connect and build something awesome 🚀
 
 ---
