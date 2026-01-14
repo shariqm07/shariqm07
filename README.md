@@ -1,6 +1,6 @@
-# 💫 About Me
+# Hi 👋 I’m **Shariq Mehmood**,  
 
-Hi 👋 I’m **Shariq Mehmood**,  
+
 a **passionate Software Engineer** who loves building **scalable systems**,  
 modern **web & mobile applications**, and experimenting with **diverse tech stacks**.
 
