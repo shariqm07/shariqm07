@@ -12,9 +12,7 @@ Let’s connect and build something awesome 🚀
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/shariqmehmood)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shariq-mehmood-361341245)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/shariqmehmood)
 [![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shariqmehmood)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shariqmehmood971@gmail.com)
 
